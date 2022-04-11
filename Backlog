@@ -1,8 +1,7 @@
 # Product backlog
 ## Desarrollo SCRUM. ROLES DESIGNADOS:
-### PRODUCT OWNER (PO): CHRISTIAN DELGADO
+### PRODUCT OWNER(PO) Y DESARROLLADOR: ALBERTO SACRAMENTO
 ### SCRUM MASTER (SM): ARANZA VALDIVIA
-### DESARROLLADOR: ALBERTO SACRAMENTO
 
 ** 11.02.2022	**
 ** 08:00 am	**
@@ -21,3 +20,26 @@ _08:00 am	INSPECCION DE CIBERSEGURIDAD	Creación de los acuerdos de confidencial
 ** 14.02.2022	**
 ** 08:00 am	**
 _INSPECCION DE CIBERSEGURIDAD	Contratación de antivirus para poder salvaguardar el sistema._
+
+
+** 1er REPORTE: **
+_Las actividades siguen en el mismo orden, en donde se puede observar que la única modificación que se realizó fue en la asignación de las actividades, pues aún no se completan del todo y siguen en revisión.
+Se realizó la prueba de seguridad con datos proporcionados al azar, esto fue una simulación de información para poder probar que el sistema se encuentra en un buen nivel de resguardo de información. Se asignó una bitácora de registro de cada nuevo cliente que “irá ingresando al sistema”, al mismo tiempo se ira cotejando la información y se sincronizará con todas las diferentes sucursales, siempre cuidando sus datos personales._
+
+** 2do REPORTE: **
+_Durante la última semana se encontraron unos problemas en el apartado de seguridad ya que se encontraron unas cuantas debilidades en los procesos que están siendo arregladas en este momento.
+Se están creando las redes de base de datos, pero todo al parecer va dentro de los tiempos correctos, durante la siguiente parte se testeara y se modificaran fallas._
+
+** 3er REPORTE: **
+
+_Se lograron finalizar las actividades de la interfaz para la creación de la red empresarial, algunas de las actividades se fueron modificando tal y como se menciono en los reportes anteriores, en donde se puede observar que fueron modificaciones con el apartado de ciberseguridad, se necesitaba trabajar en el área de antivirus para prevenir filtraciones en el futuro y poder salvaguardar el sistema de cualquier tipo de ataque malicioso._
+
+** 4to REPORTE: **
+
+_Se siguen haciendo pruebas con la interfaz, la inspección de seguridad y con la creación de redes, pues aunque ya se terminó la creación de la red empresarial, seguimos en el proceso de poder presentar cualquier falla en cualquier momento, por lo tanto tenemos la opción de seguir testeando todo el proceso e ir colocando la información en cada uno de los reportes._
+
+** 5to REPORTE: **
+
+_Se finalizaron las pruebas con el apartado de ciberseguridad, ya no se presentaron fallas, la actualización de datos y el registro de estos no se ve afectado en ninguna de las redes empresariales que ya fueron diseñadas para futuros registros de miembros nuevos. También se realizó una grafica para poder ver el avance y la finalización de cada Sprint, se utilizaron porcentajes de nivelación de cada avance desde el dia2, en donde se puede observar que el sprint en el que más se trabajó en ese lapso fue la interfaz de la membresía, seguido del sprint de la red empresarial y al final el sprint de la ciberseguridad, se necesitaba empatar toda la información y así poder tener muy claro la forma en que se estaría trabajando y haciendo las pruebas fundamentales para poder dar fin a las actividades realizadas._
+
+
